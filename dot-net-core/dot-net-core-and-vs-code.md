@@ -2,7 +2,7 @@
 
 * Open VS Code from any folder by right-clicking and selecting "Open with Code"
 * Create a new terminal:
-    * Ctrl + Shift + P > "Create Terminal"
+    * <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > "Create Terminal"
 * Create directory:
     * `mkdir src`
     * `cd src`
@@ -22,14 +22,14 @@
     * `dotnet run # add --no-build to use already built project`
 * Navigate to the site
 * Add .gitignore extension:
-    * Ctrl + Shift + P > "Install Extensions"
+    * <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > "Install Extensions"
     * Search for "gitignore" and install
-    * Ctrl + Shift + P > "Add gitignore"
+    * <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> > "Add gitignore"
     * Search for VisualStudio and add
 * Add to Git and GitHub
     * `git init`
     * `git add`
     * `git commit -m "Add empty MVC project"`
-    * Create a new repo in GitHub
+    * Create a new repository in GitHub
     * `git remote add origin https://github.com/robbell/myproject.git`
     * `git push -u origin master`
